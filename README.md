@@ -7,4 +7,5 @@ Use const for variables that should not be reassigned after their initial assign
 prefer no to use var because of issue in block scope and Functional Scope 
 
 DataType_ECMA 
-
+- Coversion and operation
+-
